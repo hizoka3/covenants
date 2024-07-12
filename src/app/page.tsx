@@ -4,7 +4,7 @@ export default function Home() {
 
   return (
       <main>
-        <div className={'container'}>
+        <div className={'w-full h-screen'}>
           <div className={'grid grid-cols-12'}>
             <div className={'col-span-4 col-start-5'}>
               <div className={'border border-gray mt-12 shadow-sm rounded-md px-10 py-12'}>
