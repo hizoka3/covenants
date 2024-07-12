@@ -1,3 +1,5 @@
+import "./sheet.css";
+
 export default function EmbotelladoraAndina() {
     return (
         <div>
