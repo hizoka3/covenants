@@ -1,7 +1,7 @@
 import {EnterpriseCovenant} from "@/app/components/dashboard/Sidebar";
 import Essbio from "@/app/components/covenantsHTML/Essbio";
 import EmbotelladoraAndina from "@/app/components/covenantsHTML/EmbotelladoraAndina";
-import "../../components/covenantsHTML/sheet.css";
+import "../../components/covenantsHTML/sheet.scss";
 
 export default function CovenantDetailPage({params}: {params: { id: string }}) {
     const covenantID = params.id as EnterpriseCovenant;
