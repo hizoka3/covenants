@@ -1,4 +1,3 @@
-import "./sheet.css";
 
 export default function Essbio() {
     return (
